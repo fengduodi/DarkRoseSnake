@@ -1,0 +1,10 @@
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\bin\Debug\暗黑玫瑰蛇.exe.config
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\bin\Debug\暗黑玫瑰蛇.exe
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\bin\Debug\暗黑玫瑰蛇.pdb
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.csproj.AssemblyReference.cache
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.Form1.resources
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.Properties.Resources.resources
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.exe
+C:\Users\CYH\source\repos\暗黑玫瑰蛇\暗黑玫瑰蛇\obj\Debug\暗黑玫瑰蛇.pdb
